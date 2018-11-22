@@ -1,10 +1,10 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
+  "name": "Vragen app",
+  "short_name": "Vragen app",
   "version": "com.phonegap.helloworld",
-  "description": "Hello World sample application that responds to the deviceready event.",
+  "description": "Martijn van Schaik",
   "author": "PhoneGap Team",
   "icons": [],
   "start_url": "index.html"
