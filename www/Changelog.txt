@@ -16,4 +16,10 @@ Alle veranderingen worden gedocumenteerd in dit bestand
 - icoon toegevoegd aan app
 - splashscreen toegevoegd aan app
 
+##[0.0.3] - 22/11/2018
+###overzichtpagina toegevoegd
+- APK gemaakt van Applicatie 
+- bootstrap menu is niet werkend 
+- fout oplossen in bootstrap menu
+
 

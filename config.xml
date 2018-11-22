@@ -29,7 +29,7 @@
     <platform name="android">
         
         <!-- only use Android-->
-        
+        <splash src="splash.png" />
         <icon density="xhdpi" src="www/res/icon/android/icon-xhdpi-icon.png" />
         <icon density="xxhdpi" src="www/res/icon/android/icon-xxhdpi-icon.png" />
         <icon density="xxxhdpi" src="www/res/icon/android/icon-xxxhdpi-icon.png" />
