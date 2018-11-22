@@ -10,8 +10,13 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
+    
     <preference name="splashscreen" value="screen"/>
     <preference name="splashScreenDelay" value="10000"/>
+    <preference name="SplashMaintainAspectRatio" value="true|false" />
+    <preference name="SplashShowOnlyFirstTime" value="true|false" />
+    <preference name="SplashScreenSpinnerColor" value="#000" />
+    
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.4.3" />
@@ -39,12 +44,12 @@
         <splash density="land-xhdpi" src="www/res/screen/android/drawable-land-xhdpi-screen.png" />
         <splash density="land-xxhdpi" src="www/res/screen/android/drawable-land-xxhdpi-screen.png" />
         <splash density="land-xxxhdpi" src="www/res/screen/android/drawable-land-xxxhdpi-screen.png" />-->
-        <splash density="port-ldpi" src="www/res/screen/android/splash-port-ldpi-screen.png"/>
-        <splash density="port-mdpi" src="www/res/screen/android/splash-port-mdpi-screen.png"/>
-        <splash density="port-hdpi" src="www/res/screen/android/splash-port-hdpi-screen.png"/>
-        <splash density="port-xhdpi" src="www/res/screen/android/splash-port-xhdpi-screen.png"/>
-        <splash density="port-xxhdpi" src="www/res/screen/android/splash-port-xxhdpi-screen.png"/>
-        <splash density="port-xxxhdpi" src="www/res/screen/android/splash-port-xxxhdpi-screen.png"/>
+        <splash qualifier="port-ldpi" src="www/res/screen/android/splash-port-ldpi-screen.png"/>
+        <splash qualifier="port-mdpi" src="www/res/screen/android/splash-port-mdpi-screen.png"/>
+        <splash qualifier="port-hdpi" src="www/res/screen/android/splash-port-hdpi-screen.png"/>
+        <splash qualifier="port-xhdpi" src="www/res/screen/android/splash-port-xhdpi-screen.png"/>
+        <splash qualifier="port-xxhdpi" src="www/res/screen/android/splash-port-xxhdpi-screen.png"/>
+        <splash qualifier="port-xxxhdpi" src="www/res/screen/android/splash-port-xxxhdpi-screen.png"/>
     </platform>
  
     <!---<platform name="ios">
