@@ -24,9 +24,7 @@
     <platform name="android">
         
         <!-- only use Android-->
-        <icon density="ldpi" src="www/res/icon/android/icon-ldpi-icon.png" />
-        <icon density="mdpi" src="www/res/icon/android/icon-mdpi-icon.png" />
-        <icon density="hdpi" src="www/res/icon/android/icon-hdpi-icon.png" />
+        
         <icon density="xhdpi" src="www/res/icon/android/icon-xhdpi-icon.png" />
         <icon density="xxhdpi" src="www/res/icon/android/icon-xxhdpi-icon.png" />
         <icon density="xxxhdpi" src="www/res/icon/android/icon-xxxhdpi-icon.png" />
