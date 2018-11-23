@@ -152,7 +152,7 @@ h1 {
 .btn-primary{
     float: left !important;
     text-align: center !important;
-    margin-left: 30% !important;
+    margin-left: 25% !important;
     margin-right: 30% !important;
     margin-top: 5% !important;
     font-family: 'tahuregular'!important;
@@ -167,9 +167,8 @@ h1 {
 }
 a {
     color: #fff !important;
-    text-decoration: none;
     background-color: transparent;
-    -webkit-text-decoration-skip: objects;
+    -webkit-text-decoration-skip: objects !important;
 }
 
 
@@ -224,4 +223,13 @@ a {
     margin: 0px;
     padding: 0px;
     height: 100vh;
+}
+
+
+
+
+
+
+.form-control {
+    width: 90% !important;
 }
