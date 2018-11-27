@@ -25,5 +25,8 @@ Alle veranderingen worden gedocumenteerd in dit bestand
 ##[0.0.4] - 26/11/2018
 ###overzichtpagina toegevoegd
 - Splashscreen plugin toegevoegd aan phonegap (is alleen nogmaar ondersteund voor windows);
-
+- Code opgeschoond nieuwe qualifier toegevoegd 
+- RES folder verplaatst naar rootfolder. 
+- Splash werkt op apk na nieuwe commit. 
+- Testen of GIF ook toegevoegd kan worden. 
 

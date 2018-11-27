@@ -9,10 +9,10 @@
     </author>
     <content src="index.html" />
     <splash platform="android" src="splash.png" />
-    <splash platform="android" qualifier="port-ldpi" src="res/screen/android/splash-port-ldpi-screen.png" />
-    <splash platform="android" qualifier="port-mdpi" src="res/screen/android/splash-port-mdpi-screen.png" />
-    <splash platform="android" qualifier="port-hdpi" src="res/screen/android/splash-port-hdpi-screen.png" />
-    <splash platform="android" qualifier="port-xhdpi" src="res/screen/android/splash-port-xhdpi-screen.png" />
+    <splash platform="android" qualifier="port-ldpi" src="res/screen/android/splash-port-ldpi-screen.gif" />
+    <splash platform="android" qualifier="port-mdpi" src="res/screen/android/splash-port-mdpi-screen.gif" />
+    <splash platform="android" qualifier="port-hdpi" src="res/screen/android/splash-port-hdpi-screen.gif" />
+    <splash platform="android" qualifier="port-xhdpi" src="res/screen/android/splash-port-xhdpi-screen.gif" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -22,7 +22,7 @@
     <allow-intent href="geo:*" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
-    <preference name="SplashScreen" value="/images/browser/splashscreen.jpg" />
+    <preference name="SplashScreen" value="/images/browser/splashscreen.png" />
     <preference name="AutoHideSplashScreen" value="true" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="SplashScreenBackgroundColor" value="green" />
