@@ -22,4 +22,8 @@ Alle veranderingen worden gedocumenteerd in dit bestand
 - bootstrap menu is niet werkend 
 - fout oplossen in bootstrap menu
 
+##[0.0.4] - 26/11/2018
+###overzichtpagina toegevoegd
+- Splashscreen plugin toegevoegd aan phonegap (is alleen nogmaar ondersteund voor windows);
+
 

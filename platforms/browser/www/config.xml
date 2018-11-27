@@ -8,6 +8,11 @@
         PhoneGap Team
     </author>
     <content src="index.html" />
+    <splash platform="android" src="splash.png" />
+    <splash platform="android" qualifier="port-ldpi" src="res/screen/android/splash-port-ldpi-screen.png" />
+    <splash platform="android" qualifier="port-mdpi" src="res/screen/android/splash-port-mdpi-screen.png" />
+    <splash platform="android" qualifier="port-hdpi" src="res/screen/android/splash-port-hdpi-screen.png" />
+    <splash platform="android" qualifier="port-xhdpi" src="res/screen/android/splash-port-xhdpi-screen.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
@@ -17,7 +22,11 @@
     <allow-intent href="geo:*" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
-    <preference name="SplashMaintainAspectRatio" value="true|false" />
-    <preference name="SplashShowOnlyFirstTime" value="true|false" />
-    <preference name="SplashScreenSpinnerColor" value="white" />
+    <preference name="SplashScreen" value="/images/browser/splashscreen.jpg" />
+    <preference name="AutoHideSplashScreen" value="true" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="SplashScreenBackgroundColor" value="green" />
+    <preference name="ShowSplashScreen" value="false" />
+    <preference name="SplashScreenWidth" value="600" />
+    <preference name="SplashScreenHeight" value="300" />
 </widget>
