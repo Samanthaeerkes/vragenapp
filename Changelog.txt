@@ -1,13 +1,13 @@
 #Changelog
 Alle veranderingen worden gedocumenteerd in dit bestand
 
-##[0.0.1] - 12/11/2018
+##[0.1] - 12/11/2018
 ###opleidingskeuzepagina toegevoegd
 - Background toegevoegd
 - Drop down buttons toegevoegd
 - Start button toegevoegd 
 
-##[0.0.2] - 13/11/2018
+##[0.2] - 13/11/2018
 ###overzichtpagina toegevoegd
 - Link toegevoegd van start button
 - Background toegevoegd
@@ -16,13 +16,17 @@ Alle veranderingen worden gedocumenteerd in dit bestand
 - icoon toegevoegd aan app
 - splashscreen toegevoegd aan app
 
-##[0.0.3] - 22/11/2018
+##[1.0] - 14/11/2018
+###first commit github
+
+
+##[2.0] - 22/11/2018
 ###overzichtpagina toegevoegd
 - APK gemaakt van Applicatie 
 - bootstrap menu is niet werkend 
 - fout oplossen in bootstrap menu
 
-##[0.0.4] - 26/11/2018
+##[2.1] - 26/11/2018
 ###overzichtpagina toegevoegd
 - Splashscreen plugin toegevoegd aan phonegap (is alleen nogmaar ondersteund voor windows);
 - versie 2.0 commit gedaan na toevoegen qualifier
@@ -31,5 +35,6 @@ Alle veranderingen worden gedocumenteerd in dit bestand
 - nieuwe commit versie 2.3 na aanpassing Splash zodat loader ingevoegd kan worden.
 - apk werkt naar behoren en Splash screen doet het zoals het hoort. 
 
-
+##[2.3] - 26/11/2018
+###Official commit github after solving ticket
 
