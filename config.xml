@@ -24,7 +24,10 @@
         <preference name="SplashScreenSpinnerColor" value="white" />
 
     </platform>
-    
+    <platform name="android">
+        <preference name="SplashScreenSpinnerColor" value="white" />
+
+    </platform>
     
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
