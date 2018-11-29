@@ -12,7 +12,7 @@
     <preference name="android-minSdkVersion" value="14" />
     
     
-    <platform name="android">
+    <platform name="browser">
         <preference name="SplashScreen" value="/images/browser/splashscreen.png" />
         <preference name="AutoHideSplashScreen" value="true" />
         <preference name="SplashScreenDelay" value="3000" />
