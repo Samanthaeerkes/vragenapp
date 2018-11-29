@@ -22,6 +22,7 @@
         <preference name="SplashScreenHeight" value="300" />
 
         <preference name="show-splash-screen-spinner" value="true" /> 
+        <preference name="show-splash-screen-spinner-color" value="#fff" /> 
 
     </platform>
     
