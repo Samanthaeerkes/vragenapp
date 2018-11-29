@@ -12,6 +12,21 @@
     <preference name="android-minSdkVersion" value="14" />
     
     
+    <!--<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pivotX="50%" android:pivotY="50%" android:fromDegrees="0"
+    android:toDegrees="360">
+    <shape android:shape="ring" android:innerRadiusRatio="3"
+        android:thicknessRatio="8" android:useLevel="false">
+        <size android:width="76dip" android:height="76dip" />
+        <gradient android:type="sweep" android:useLevel="false"
+            android:startColor="#fff" 
+            android:endColor="FFF"
+            android:angle="0"
+             />
+    </shape>
+</rotate> -->
+    
+    
     <platform name="browser">
         <preference name="SplashScreen" value="/images/browser/splashscreen.png" />
         <preference name="AutoHideSplashScreen" value="true" />
@@ -21,7 +36,8 @@
         <preference name="SplashScreenWidth" value="600" />
         <preference name="SplashScreenHeight" value="300" />
         <preference name="ShowSplashScreenSpinner" value="true"/>
-        <preference name="SplashScreenSpinnerColor" value="#fff"/>
+
+        <preference name="TopActivityIndicator" value="white"/>
     </platform>
     
     
