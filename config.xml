@@ -68,4 +68,5 @@
         <allow-intent href="market:*" />
     </platform>
     <plugin name="cordova-plugin-splashscreen" spec="https://github.com/apache/cordova-plugin-splashscreen.git" />
+    <script type="javascript">centeredLayout.setGravity(Gravity.BOTTOM);</script>
 </widget>
