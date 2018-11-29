@@ -20,8 +20,8 @@
         <preference name="ShowSplashScreen" value="false" />
         <preference name="SplashScreenWidth" value="600" />
         <preference name="SplashScreenHeight" value="300" />
-        <preference name="SplashScreenSpinnerColor" value="#FFF"/>
-        <preference name="ShowSplashScreenSpinner" value="true"/>
+
+        <preference name="show-splash-screen-spinner" value="true" /> 
 
     </platform>
     
